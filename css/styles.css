@@ -27,7 +27,6 @@ card-section (2nd card)
     background-position: center;
 }
 .banner-img-2{
-    background-image: url('../images/lady-justice-law-library-concept.jpg'), linear-gradient(to right, rgba(15, 15, 15, 0.651), rgba(19, 18, 18, 0.532));
     background-image: url('../images/lady-justice-law-library-concept.jpg'), linear-gradient(to right, rgba(255,0,0,0), rgba(8, 8, 8, 0.29));
     height: 80vh;
     background-size: cover;
@@ -40,10 +39,6 @@ card-section (2nd card)
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
-    background-image: url("../images/law-justice-concept-dark-background.jpg"), linear-gradient(to right, rgba(255,0,0,0), rgba(8, 8, 8, 0.29));
-    height: 80vh;
-    background-size: cover;
-    background-position: right;
 }
 /* -----------------
 footer-start
