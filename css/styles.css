@@ -20,45 +20,32 @@ card-section (2nd card)
 }
 /* carousel */
 .banner-img-1{
-<<<<<<< HEAD
     background-image: url('../images/Rectangle\ 4.png'), linear-gradient(to right, rgba(15, 15, 15, 0.651), rgba(19, 18, 18, 0.532));
     height: 80vh;
     background-size: cover;
-=======
-    background-image: url('../images/Rectangle\ 4.png'), linear-gradient(to right, rgba(22, 3, 3, 0.651), rgba(8, 8, 8, 0.532));
-    height: 80vh;
-    background-size: cover;
-    background-position: left;
->>>>>>> eb14eb7e42f940ef3f2cd38b27d7a25e9b723081
     background-blend-mode: multiply;
     background-position: center;
 }
 .banner-img-2{
-<<<<<<< HEAD
     background-image: url('../images/lady-justice-law-library-concept.jpg'), linear-gradient(to right, rgba(15, 15, 15, 0.651), rgba(19, 18, 18, 0.532));
-=======
     background-image: url('../images/lady-justice-law-library-concept.jpg'), linear-gradient(to right, rgba(255,0,0,0), rgba(8, 8, 8, 0.29));
->>>>>>> eb14eb7e42f940ef3f2cd38b27d7a25e9b723081
     height: 80vh;
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
 }
 .banner-img-3{
-<<<<<<< HEAD
     background-image: url("../images/law-justice-concept-dark-background.jpg"), linear-gradient(to right, rgba(15, 15, 15, 0.651), rgba(19, 18, 18, 0.532));
     height: 80vh;
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
-=======
     background-image: url("../images/law-justice-concept-dark-background.jpg"), linear-gradient(to right, rgba(255,0,0,0), rgba(8, 8, 8, 0.29));
     height: 80vh;
     background-size: cover;
     background-position: right;
->>>>>>> eb14eb7e42f940ef3f2cd38b27d7a25e9b723081
 }
-/* ----------------
+/* -----------------
 footer-start
 ---------------- */
 footer div li{
